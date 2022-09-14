@@ -1,0 +1,8 @@
+name: AtoutsPlus
+version: 1.0
+main: fr.failaxite.atp.Main
+commands:
+  atp:
+    description: AtoutsPlus help command
+  configreload:
+    description: Pour reload la config du plugin

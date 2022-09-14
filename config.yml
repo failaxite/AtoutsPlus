@@ -1,0 +1,30 @@
+names:
+  firename: "&c&lPerks: &a&lFire &8| &7Right click"
+  forcename: "&c&lPerks: &a&lStrength &8| &7Right click"
+  speedname: "&c&lPerks: &a&lSpeed &8| &7Right click"
+  keepname: "&c&lPerks: &a&lKeep &8| &7Right click"
+messages:
+  erreur: "&8[&6AtoutsPlus&8] &cThis player cannot be found !"
+  erreurstack: "&8[&6AtoutsPlus&8] &cYou cannot use stacked perks !"
+  erreurkeep: "&8[&6AtoutsPlus&8] &cYou cannot use two KeepInventories in a row !"
+  secondevie: "&8[&6AtoutsPlus&8] &aYou received an &cKeep &aperks !"
+  fire: "&8[&6AtoutsPlus&8] &aYou received an &6Fire Resistance &aperks !"
+  speed: "&8[&6AtoutsPlus&8] &aYou received an &bSpeed &aperks !"
+  force: "&8[&6AtoutsPlus&8] &aYou received an &5Strength &aperks !"
+  permissions: "&8[&6AtoutsPlus&8] &cYou do not have permission to perform this command !"
+  reload: "&8[&6AtoutsPlus&8] &aThe Config has just been reloaded"
+description:
+  firedesc: "&7Gives you the ability to have a &6fire resistance &7 effect until you die"
+  speeddesc: "&7Gives you the ability to have a &bspeed effect &7until you die"
+  forcedesc: "&7Gives you the ability to have an effect of &5strength &7until you die"
+  keepdesc: "&7Gives you the possibility to have a &csecond life &7and not to lose your stuff during a death"
+use:
+  fireuseall: "§8[§6AtoutsPlus§8] §l§c {PLAYER} §aactivated a §6Fire &aPerk"
+  fireuseme: "§8[§6AtoutsPlus§8] §aYou have activated a §6FIRE Perk"
+  speeduseall: "§8[§6AtoutsPlus§8] §l§c {PLAYER} §aactivated a §bSpeed &aPerk"
+  speeduseme: "§8[§6AtoutsPlus§8] §aYou have activated a §bSPEED Perk"
+  forceuseall: "§8[§6AtoutsPlus§8] §l§c {PLAYER} §aactivated a §5Strength &aPerk"
+  forceuseme: "§8[§6AtoutsPlus§8] §aYou have activated a §5STRENGTH Perk"
+  keepuseall: "§8[§6AtoutsPlus§8] §l§c {PLAYER} §aactivated a §cKeepInventory &aPerk"
+  keepuseme: "§8[§6AtoutsPlus§8] §aYou have activated a §cKEEPINVENTORY Perk"
+
